@@ -238,7 +238,9 @@ celerybeat-schedule
 dmypy.json
 
 # Pyre type checker
+/media
 .pyre/
 venv
+/static
 
 # End of https://www.gitignore.io/api/django 
